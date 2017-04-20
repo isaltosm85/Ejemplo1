@@ -73,6 +73,7 @@ WSGI_APPLICATION = 'Ejemplo.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
+# BASE DE DATOS DE IVAN SALTOS
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
